@@ -1,0 +1,15 @@
+h1{
+    background-color: azure;
+    text-align: center;
+}
+#logo{
+  border-radius: 20%;
+  height: 50px;
+  width: 50px;
+}
+li a:hover {
+  background-color:silver;
+}
+#log{
+  float: right;
+}
